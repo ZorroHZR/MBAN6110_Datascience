@@ -1,2 +1,2 @@
-# MBAN6110_Datascience
+# MMAI 5000
 Schulich_data_science
