@@ -1,0 +1,68 @@
+Ticker symbol,Company,GICS Sector,Location of Headquarters,Price,PercentReturn
+AEE,Ameren Corp,Utilities,"St. Louis, Missouri",31.26,4.83
+AXP,American Express Co,Financials,"New York, New York",49.23,1.53
+T,AT&T Inc,Telecommunications Services,"Dallas, Texas",30.09,5.82
+AVP,Avon Products,Consumer Staples,"New York, New York",18.31,5.26
+BFB,Brown-Forman Corporation,Consumer Staples,"Louisville, Kentucky",82.28,1.74
+CHRW,C. H. Robinson Worldwide,Industrials,"Eden Prairie, Minnesota",67.63,1.89
+CVC,Cablevision Systems Corp.,Consumer Discretionary,"Bethpage, New York",14.16,4.22
+CPB,Campbell Soup,Consumer Staples,"Camden, New Jersey",31.61,3.49
+CBS,CBS Corp.,Consumer Discretionary,"New York, New York",28.64,1.47
+KO,Coca Cola Co.,Consumer Staples,"Atlanta, Georgia",67.9,2.69
+CCE,Coca-Cola Enterprises,Consumer Staples,"Atlanta, Georgia",26.59,2.02
+COP,ConocoPhillips,Energy,"Houston, Texas",70.61,3.62
+CBE,Cooper Industries,Industrials,"Houston, Texas",60.16,2.14
+DO,Diamond Offshore Drilling,Energy,"Houston, Texas",61.31,0.9
+DFS,Discover Financial Services,Financials,"Riverwoods, Illinois",27.83,1.67
+D,Dominion Resources,Utilities,"Richmond, Virginia",50.31,3.71
+RRD,Donnelley (R.R.) & Sons,Industrials,"Chicago, Illinois",12.2,7.21
+DOV,Dover Corp.,Industrials,"Downers Grove, Illinois",60.47,2.17
+DTE,DTE Energy Co.,Utilities,"Detroit, Michigan",52.96,4.32
+DUK,Duke Energy,Utilities,"Charlotte, North Carolina",21.14,4.55
+EP,El Paso Corp.,Energy,"Houston, Texas",26.75,0.15
+XOM,Exxon Mobil Corp.,Energy,"Irving, Texas",87.18,2.22
+F,Ford Motor,Consumer Discretionary,"Dearborn, Michigan",12.82,1.86
+FTR,Frontier Communications,Telecommunications Services,"Stamford, Connecticut",4.75,14.56
+GCI,Gannett Co.,Consumer Discretionary,"McLean, Virginia",15.41,2.39
+GE,General Electric,Industrials,"Fairfield, Connecticut",18.84,3.79
+HOG,Harley-Davidson,Consumer Discretionary,"Milwaukee, Wisconsin",43.32,1.29
+HCP,HCP Inc.,Financials,"Long Beach, California",40.99,4.63
+HNZ,Heinz (H.J.),Consumer Staples,"Pittsburgh, Pennsylvania",51.91,3.55
+HPQ,Hewlett-Packard,Information Technology,"Palo Alto, California",28.52,1.86
+IVZ,Invesco Ltd.,Financials,"Atlanta, Georgia",22.39,2.44
+JNJ,Johnson & Johnson,Health Care,"New Brunswick, New Jersey",65,3.48
+JPM,JPMorgan Chase & Co.,Financials,"New York, New York",37.66,3.01
+KEY,KeyCorp,Financials,"Cleveland, Ohio",8.13,1.56
+KIM,Kimco Realty,Financials,"New Hyde Park, New York",18.5,4.68
+MTB,M&T Bank Corp.,Financials,"Buffalo, New York",81.69,3.67
+MA,Mastercard Inc.,Information Technology,"Harrison, New York",342.68,0.16
+MCD,McDonald's Corp.,Consumer Discretionary,"Oak Brook, Illinois",98.75,2.79
+MCK,McKesson Corp.,Health Care,"San Francisco, California",76.55,1.03
+MRK,Merck & Co.,Health Care,"Whitehouse Station, New Jersey",38.78,4.46
+MCHP,Microchip Technology,Information Technology,"Chandler, Arizona",37.31,3.8
+MSFT,Microsoft Corp.,Information Technology,"Redmond, Washington",29.34,3.08
+NEM,Newmont Mining Corp. (Hldg. Co.),Materials,"Denver, Colorado",57.48,2.33
+OKE,ONEOK,Utilities,"Tulsa, Oklahoma",87.25,2.58
+ORCL,Oracle Corp.,Information Technology,"Redwood Shores, California",28.51,0.94
+PBCT,People's United Bank,Financials,"Bridgeport, Connecticut",12.77,4.9
+POM,Pepco Holdings Inc.,Utilities,Washington D.C,19.81,5.32
+PEP,PepsiCo Inc.,Consumer Staples,"Purchase, New York",66.2,3.1
+PKI,PerkinElmer,Health Care,"Waltham, Massachusetts",23.84,1.4
+PCG,PG&E Corp.,Utilities,"San Francisco, California",40.16,4.42
+PNW,Pinnacle West Capital,Utilities,"Phoenix, Arizona",47.47,4.36
+PCL,Plum Creek Timber Co.,Financials,"Seattle, Washington",39.73,4.59
+PG,Procter & Gamble,Consumer Staples,"Cincinnati, Ohio",64.5,3.15
+QEP,QEP Resources,Utilities,"Denver, Colorado",28.9,0.27
+QCOM,QUALCOMM Inc.,Information Technology,"San Diego, California",58.68,1.57
+SPLS,Staples Inc.,Consumer Discretionary,"Framingham, Massachusetts",16.05,2.88
+SBUX,Starbucks Corp.,Consumer Discretionary,"Seattle, Washington",47.65,1.48
+TE,TECO Energy,Utilities,"Tampa, Florida",18.07,4.49
+HSY,The Hershey Company,Consumer Staples,"Hershey, Pennsylvania",61.39,2.23
+TRV,The Travelers Companies Inc.,Financials,"St. Paul, Minnesota",58,2.77
+TIF,Tiffany & Co.,Consumer Discretionary,"New York, New York",63.28,1.75
+UPS,United Parcel Service,Industrials,"Sandy Springs, Georgia",75,2.84
+X,United States Steel Corp.,Materials,"Pittsburgh, Pennsylvania",28.96,0.76
+UTX,United Technologies,Industrials,"Hartford, Connecticut",77.78,2.63
+VZ,Verizon Communications,Telecommunications Services,"New York, New York",37.79,4.99
+WMT,Wal-Mart Stores,Consumer Staples,"Bentonville, Arkansas",61.39,2.44
+WHR,Whirlpool Corp.,Consumer Discretionary,"Benton Charter Township, Michigan",54.36,4.21

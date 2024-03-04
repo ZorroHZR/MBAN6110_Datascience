@@ -1,0 +1,59 @@
+Routes,Cost
+"[U, a, b, f, e, d, c, U]",136
+"[U, a, b, f, e, d, U]",110
+"[U, a, b, f, e, U]",90
+"[U, a, b, f, d, c, U]",132
+"[U, a, b, f, d, e, U]",118
+"[U, a, b, f, d, U]",106
+"[U, a, c, d, e, f, b, U]",136
+"[U, a, c, d, e, U]",92
+"[U, a, c, d, f, b, U]",132
+"[U, a, c, d, f, e, U]",112
+"[U, a, c, d, U]",80
+"[U, b, a, c, d, e, U]",114
+"[U, b, a, c, d, f, e, U]",134
+"[U, b, a, c, d, U]",102
+"[U, b, a, c, U]",68
+"[U, b, f, e, d, c, a, U]",136
+"[U, b, f, e, d, c, U]",118
+"[U, b, f, e, d, U]",92
+"[U, b, f, e, U]",72
+"[U, b, f, d, c, a, U]",132
+"[U, b, f, d, c, U]",114
+"[U, b, f, d, e, U]",100
+"[U, b, f, d, U]",88
+"[U, c, a, b, f, e, d, U]",124
+"[U, c, a, b, f, e, U]",104
+"[U, c, a, b, f, d, e, U]",132
+"[U, c, a, b, f, d, U]",120
+"[U, c, a, b, U]",68
+"[U, c, d, e, f, b, a, U]",136
+"[U, c, d, e, f, b, U]",118
+"[U, c, d, e, U]",74
+"[U, c, d, f, b, a, U]",132
+"[U, c, d, f, b, U]",114
+"[U, c, d, f, e, U]",94
+"[U, d, c, a, b, f, e, U]",138
+"[U, d, c, a, b, U]",102
+"[U, d, c, a, U]",80
+"[U, d, e, f, b, a, c, U]",124
+"[U, d, e, f, b, a, U]",110
+"[U, d, e, f, b, U]",92
+"[U, d, f, b, a, c, U]",120
+"[U, d, f, b, a, U]",106
+"[U, d, f, b, U]",88
+"[U, d, f, e, U]",68
+"[U, e, d, c, a, b, U]",114
+"[U, e, d, c, a, U]",92
+"[U, e, d, c, U]",74
+"[U, e, d, f, b, a, c, U]",132
+"[U, e, d, f, b, a, U]",118
+"[U, e, d, f, b, U]",100
+"[U, e, f, b, a, c, d, U]",138
+"[U, e, f, b, a, c, U]",104
+"[U, e, f, b, a, U]",90
+"[U, e, f, b, U]",72
+"[U, e, f, d, c, a, b, U]",134
+"[U, e, f, d, c, a, U]",112
+"[U, e, f, d, c, U]",94
+"[U, e, f, d, U]",68
